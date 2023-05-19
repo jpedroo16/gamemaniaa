@@ -1,0 +1,95 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.3rem;
+    
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(31, 30, 30);
+    align-items: center;
+    
+
+}
+
+nav > a{
+    color: aliceblue;
+    text-decoration: none;
+    margin-left: 2rem;
+    padding-bottom: 2rem;
+
+}
+
+footer{
+    background-color: black;
+    color: aliceblue;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+body{
+    background-color: gray;
+}
+
+div{
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    font-size: 2rem;
+    margin-top: 2rem;
+    color:black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: gray;
+}
+
+
+
+.el{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mcraft{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.godof{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#elri{
+    border-radius: 4rem;
+}
+
+#craft{
+    border-radius: 4rem;
+    margin-top: 4rem;
+}
+
+#gv{
+    border-radius: 4rem;
+    margin-top: 4rem;
+}
+
+#gowr{
+    border-radius: 4rem;
+    margin-top: 4rem;
+}

@@ -1,0 +1,158 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.3rem;
+    
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(31, 30, 30);
+    align-items: center;
+    
+
+}
+
+nav > a{
+    color: aliceblue;
+    text-decoration: none;
+    margin-left: 2rem;
+    padding-bottom: 2rem;
+
+}
+
+footer{
+    background-color:black;
+    color: aliceblue;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+body{
+    background-color: gray;
+}
+
+div{
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    font-size: 2rem;
+    margin-top: 2rem;
+    color:black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:gray;
+}
+
+#doom{
+    border-radius: 3rem;
+    width: 73.5rem;
+    height: 20rem;
+}
+
+
+#tom{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15rem;
+}
+
+
+#border{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-left: 36.7rem;
+    margin-top:-15.3rem;
+}
+
+
+#of{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-top: -4.5rem;
+}
+
+#kombat{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-left: 36.7rem;
+    margin-top: -15.3rem;
+}
+
+#naruto{
+    border-radius: 3rem;
+    width: 73.5rem;
+    height: 20rem;
+}
+
+#gtav{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15rem;
+}
+
+#bully{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-left: 36.7rem;
+    margin-top:-15.3rem;
+}
+
+#gta{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-top: -4.5rem;
+}
+
+#world{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-left: 36.7rem;
+    margin-top: -15.3rem;
+}
+
+#us{
+    border-radius: 3rem;
+    width: 73.5rem;
+    height: 20rem;
+}
+
+#res{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15rem;
+}
+
+#out{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-left: 36.7rem;
+    margin-top:-15.3rem;
+}
+
+#fear{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-top: -4.5rem;
+}
+
+#blood{
+    border-radius: 3rem;
+    width: 36.7rem;
+    height: 15em;
+    margin-left: 36.7rem;
+    margin-top: -15.3rem;
+}
